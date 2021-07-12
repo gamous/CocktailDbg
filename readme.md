@@ -4,7 +4,7 @@
 
 Tiny Linux User Mode Debugger implementation for reverse engineer under x86 architecture. 
 
-This is just a simple and easy to modify personal toy, mix ideas, and then have a cup of zombies.
+This is just a simple personal toy, mix ideas, and then have a cup of zombies.
 
 ```
                    o           o 
